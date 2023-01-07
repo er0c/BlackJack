@@ -1,7 +1,5 @@
 /*
  * Eric Nguyen
- * 11/18/2022
- * CSE 007
  * Takes methoods from other objects files like hand,deck, and card.
  * Uses thoose methods to deal cards to the user's hand and caluclate the value of thier hand.
  * tThe main will contoniue to prompt the user unitl they hit 21 black jack
